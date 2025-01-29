@@ -7,7 +7,7 @@ cask "nicegram" do
   desc "Telegram-based app optimized with more features"
   homepage "https://nicegram.app/"
 
-  app "Nicegram.app"
+  app "Nicegram Desktop.app"
   
   zap trash: [
     "~/Library/Application Support/Nicegram",
